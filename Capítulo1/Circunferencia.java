@@ -6,7 +6,7 @@ public class Circunferencia {
     public static void main (String args []){
         Scanner sc = new Scanner (System.in);
         double radio, longitud, area;
-
+//Comentario por aquí comentario por allá (para practicar git)
         System.out.println("Introduzca el radio de la circunferencia (en cm):");
         radio = sc.nextDouble();
 
